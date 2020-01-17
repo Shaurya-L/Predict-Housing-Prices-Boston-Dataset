@@ -5,3 +5,5 @@ The aim of the project was to predict the housing prices. A dataset consisting o
 Comments have been added in the project. In case you still not able to understand anything feel free to contact me at: shauryaluthra689@gmail.com.
 
 Feel free to clone, download and edit this repositry.
+
+Boston dataset is a built in dataset and directly imported using sklearn in the jupyter notebook
